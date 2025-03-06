@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<img alt="Coder GIF" width="100%" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm" />
+<img alt="Coder GIF" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpjeHRmd3ZnaDJtbzh3Njlhd3pqdGN0YzEzaGJ0aHRvZWV6ZjN2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkumar609&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkumar609" /> </p>
