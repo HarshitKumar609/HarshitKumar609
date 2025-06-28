@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitkumar609" alt="harshitkumar609" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Html and css**
+- 💬 Ask me about **Html and css and javascript**
 
 - 📫 How to reach me **hk7497176@gmail.com**
 
